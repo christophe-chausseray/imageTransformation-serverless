@@ -1,4 +1,4 @@
-# imageTransformation-serverless
+# Image Transformation Serverless
 
 Small Lambda function to do transformation on images stored in a AWS bucket.
 
